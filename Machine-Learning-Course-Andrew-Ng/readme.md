@@ -23,4 +23,6 @@ this my walkthrow in ML course by Andrew NG
 - Lecture17 (week10): Large Scale Machine Learning
 - Lecture18 (week11): Application Example: Photo OCR
 
-### assignments  
+### [Assignments](https://github.com/Ibn-mohey/Machine-Learning-Courses/tree/master/Machine-Learning-Course-Andrew-Ng/machine-learning-assignments)
+
+
