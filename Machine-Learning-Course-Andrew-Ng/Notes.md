@@ -203,3 +203,36 @@ else;
 ```
 
 define function
+```m
+function nameit(variable)
+y = x^2;
+```
+we can add path
+
+```m
+addpath('path')
+```
+
+###Week 3
+
+to look at
+maximum likelihood estimation
+
+#### use Advanced optimization
+
+code to it
+
+first we define function
+
+```m
+function [jVal, gradient] = costFunction(theta)
+  jVal = [...code to compute J(theta)...];
+  gradient = [...code to compute derivative of J(theta)...];
+end
+```
+then we use it with fminunc to calc the theta
+```m
+options = optimset('GradObj', 'on', 'MaxIter', 100);
+initialTheta = zeros(2,1);
+   [optTheta, functionVal, exitFlag] = fminunc(@costFunction, initialTheta, options);
+```
