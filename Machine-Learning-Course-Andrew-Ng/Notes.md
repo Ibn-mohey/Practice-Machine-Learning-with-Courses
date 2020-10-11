@@ -293,3 +293,14 @@ High variance (overfitting): J_{train}(\Theta)J train (Θ) will be low and J_{CV
 The is summarized in the figure below:
 
 ![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/I4dRkz_pEeeHpAqQsW8qwg_bed7efdd48c13e8f75624c817fb39684_fixed.png?expiry=1602201600000&hmac=jCqun1nBqql80MRqHcT1ZJ6qqmQ6FDHbpeBzuMqblmE)
+
+
+#week 6
+
+### Error Analysis
+- Start with a simple algorithm, implement it quickly, and test it early on your cross validation data.
+- Plot learning curves to decide if more data, more features, etc. are likely to help.
+- Manually examine the errors on examples in the cross validation set and try to spot a trend where most of the errors were made.
+
+### note
+stemming software 
