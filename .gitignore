@@ -3,3 +3,11 @@ Machine-Learning-Course-Andrew-Ng/machine-learning-assignments/ex2/.ipynb_checkp
 Machine-Learning-Course-Andrew-Ng/machine-learning-assignments/ex1/Python code/.ipynb_checkpoints/Test1-checkpoint.ipynb
 Machine-Learning-Course-Andrew-Ng/machine-learning-assignments/ex1/Python code/.ipynb_checkpoints/Test1-checkpoint.ipynb
 Machine-Learning-Course-Andrew-Ng/machine-learning-assignments/ex1/Python code/.ipynb_checkpoints/Test1-checkpoint.ipynb
+*.wav
+*.mp3
+*.midi
+*.csv
+*.txt
+*.mid
+*.py
+*.h5
