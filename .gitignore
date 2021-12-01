@@ -11,10 +11,8 @@ Machine-Learning-Course-Andrew-Ng/machine-learning-assignments/ex1/Python code/.
 *.mid
 *.py
 *.h5
-DeepLearning.AI TensorFlow Developer Specialization/C1-Introduction/W4/ungraded_labs/horse-or-human.zip
-*.png
+DeepLearning.AI TensorFlow Developer Specialization/C1-Introduction/W4/ungraded_labs/horse-or-human.zi
 *.zip
-*.jpg
 DeepLearning.AI TensorFlow Developer Specialization/C2-CNN in TensorFlow/W1/assignment/.ipynb_checkpoints/C2_W1_Assignment_Solution-checkpoint.ipynb
 DeepLearning.AI TensorFlow Developer Specialization/C2-CNN in TensorFlow/W1/assignment/.ipynb_checkpoints/C2_W1_Assignment-checkpoint.ipynb
 DeepLearning.AI TensorFlow Developer Specialization/C2-CNN in TensorFlow/W1/ungraded_lab/.ipynb_checkpoints/C2_W1_Lab_1_cats_vs_dogs-checkpoint.ipynb
@@ -26,3 +24,10 @@ DeepLearning.AI TensorFlow Developer Specialization/C2-CNN in TensorFlow/W3/ungr
 DeepLearning.AI TensorFlow Developer Specialization/C3-NLP in TensorFlow/W2/ungraded_labs/meta.tsv
 DeepLearning.AI TensorFlow Developer Specialization/C3-NLP in TensorFlow/W2/ungraded_labs/vecs.tsv
 .ipynb_checkpoints
+DeepLearning.AI TensorFlow Developer Specialization/C1-Introduction/W4/ungraded_labs/horse-or-human/
+DeepLearning.AI TensorFlow Developer Specialization/C1-Introduction/W4/ungraded_labs/validation-horse-or-human/
+DeepLearning.AI TensorFlow Developer Specialization/C2-CNN in TensorFlow/W1/ungraded_lab/cats_and_dogs_filtered/
+DeepLearning.AI TensorFlow Developer Specialization/C1-Introduction/W4/assignment/h-or-s/
+DeepLearning.AI TensorFlow Developer Specialization/C1-Introduction/W4/ungraded_labs/download.jpg
+
+
